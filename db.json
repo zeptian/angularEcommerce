@@ -1,0 +1,11 @@
+{
+  "products":[
+    {
+      "id":1,
+      "name":"Sepatu Merah",
+      "description":"Sepatu olahraga berwarna merah, ringan dan tangguh",
+      "price":"350000",
+      "quantity":5
+    }
+  ]
+}
