@@ -4,7 +4,7 @@
       "id":1,
       "name":"Sepatu Merah",
       "category":"shoes",
-      "image":"https://media.istockphoto.com/id/628210852/id/foto/sepatu-olahraga.jpg?s=1024x1024&w=is&k=20&c=mdR5ULuI7D0d_dKFEdpnZW3Xk5tmj8j0Sr5jViCkmjQ="
+      "image":"https://media.istockphoto.com/id/628210852/id/foto/sepatu-olahraga.jpg?s=1024x1024&w=is&k=20&c=mdR5ULuI7D0d_dKFEdpnZW3Xk5tmj8j0Sr5jViCkmjQ=",
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris semper arcu et urna venenatis, sit amet molestie felis vulputate. Donec scelerisque metus purus, ac efficitur ante tincidunt fermentum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus rhoncus arcu tristique, pulvinar metus at, posuere diam. Mauris vel bibendum.",
       "price":350000,
       "quantity":5
@@ -38,7 +38,7 @@
     {"id":1,"name":"shoes"},
     {"id":2,"name":"shirt"},
     {"id":3,"name":"pants"},
-    {"id":4,"name":"jacket"},
+    {"id":4,"name":"jacket"}
   ],
   "orders":[
     {
